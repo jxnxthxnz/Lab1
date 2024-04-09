@@ -10,7 +10,7 @@ My favorite quote is the following by Conan O'Brien:
 
 My favorite line of code is `Hello world!` in Java. \
 One of my favorite sites is [Yelp](yelp.com). \
-Please enjoy this silly picture: [Silly Pic](squirtleGlass.jpg) \
+Please enjoy this silly picture: [Silly Pic](squirtleGlass.jpg) 
 
 Here is a list of popular widebody commercial aircraft: 
 - A350
