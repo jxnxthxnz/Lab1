@@ -30,6 +30,8 @@ Here is a ranking of my favorite widebody commercial aircraft (my rankings may c
 6. A340
 7. B767
 
+Here is a picture of an A380: 
+
 Here is my to-do list for the week:
 - [x] Finish 110 survey
 - [x] Complete my spanish hw
